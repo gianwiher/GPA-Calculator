@@ -12,6 +12,6 @@ Right click on the document and save the page as html in the same directory as t
 
 
 ### Step 4: 
-Open the `gpacalc.ipynb` notebook and enther the name of the html file. Then run all cells.
+Open the `gpacalc.ipynb` notebook and enter the path to the html file. Then run all cells.
 
-**Note** If you have not installed the pandas and matplotlib libraries on your machine, then first run `pip install pandas matplotlib`. (This assumes you have a python interpreter on your machine. Else chek out [Anaconda](https://www.anaconda.com/products/individual#Downloads)
+**Note** If you have not installed the pandas and matplotlib libraries on your machine, then first run `pip install pandas matplotlib` (This assumes you have a python interpreter on your machine. Else chek out [Anaconda](https://www.anaconda.com/products/individual#Downloads)).
