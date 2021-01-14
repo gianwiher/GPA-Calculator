@@ -7,4 +7,4 @@ Right click on the document and save the page as html in the same directory as t
 
 **Alternative**: Right click and "View source", then copy-paste the html code into a new html file.
 ### Step 3: 
-Open the `gpacalc.ipyn` notebook and enther the name of the html file. Then run all cells.
+Open the `gpacalc.ipynb` notebook and enther the name of the html file. Then run all cells.
